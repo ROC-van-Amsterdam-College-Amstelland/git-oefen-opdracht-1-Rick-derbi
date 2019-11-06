@@ -80,4 +80,31 @@ padding: 40px;
   width: 100%;
 
 }
+
+.foto-overmij
+{
+  width: 350px;
+
+}
+.fa {
+  font-size: 450px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.fa:hover {
+  color: darkblue;
+}
+
+.fotoitem-screenshot
+{
+width: 600px;
+height: 400px;
+}
+
+.fotoitem-mondriaan
+{
+width: 200px;
+text-align: center;
+}
     
